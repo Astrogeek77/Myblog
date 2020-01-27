@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(50, 50, 50);
+    color: lightgray;
+    font-family: 'Ubuntu', sans-serif;
+}
+.navbar {
+    background-color: hsl(262, 52%, 47%);
+}
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    color: yellow;
+    text-shadow: 20px 4px 9px black;
+}
+.tasklink {
+    padding-left: 600px;
+}
+.carousel {
+    width: 45%;
+    height: 300px;
+    margin-bottom: 50px;
+}
+img {
+    width: 100%;
+}
+.a {
+    padding: 5px 20px;
+    padding-top: 80px;
+}
+h2 {
+    color: rgb(255, 71, 71);
+}
+h3 {
+    color: teal;
+}
+.c {
+    font-weight: 900;
+}
+.b {
+    margin-top: 60px;
+}
+h5 {
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+
+.carousel-indicators li {
+    background-color: #ffffff05;
+}
+
+.navbar-dark .navbar-brand {
+    color: yellow;
+}
